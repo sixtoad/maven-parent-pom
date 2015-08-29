@@ -1,0 +1,1 @@
+# General pom to use by sixtoad projects #
